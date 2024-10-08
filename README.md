@@ -1,0 +1,2 @@
+# ProjectRazia
+Releases only
